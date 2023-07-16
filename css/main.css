@@ -2542,18 +2542,18 @@ ul.breadcrumb li + li:last-child {
 }
 .site-brand-container {
   padding: 0 0px;
-  background: #326fa6;
+  background: #8b0000;
 }
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #326fa6;
+  background: #8b0000;
 }
 .site-nav-toggle {
-  background: #326fa6;
+  background: #8b0000;
 }
 .site-nav-right {
-  background: #326fa6;
+  background: #8b0000;
 }
 .site-subtitle {
   margin-top: 5px;
